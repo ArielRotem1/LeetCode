@@ -11,17 +11,17 @@ My LeetCode solutions:
 
 # Medium
 - 2 - Add Two Numbers: https://leetcode.com/problems/add-two-numbers/
-- 11 - Container With Most Water: 
-- 15 - 3Sum:
-- 33 -  Search in Rotated Sorted Array: 
-- 34 - Find First and Last Position of Element in Sorted Array: 
-- 40 - Combination Sum II: 
-- 47 - Permutations II: 
-- 74 - Search a 2D Matrix: 
-- 78 - Subsets: 
-- 82 - Remove Duplicates from Sorted List II: 
-- 90 - Subsets II: 
-- 117 - Populating Next Right Pointers in Each Node II: 
+- 11 - Container With Most Water: https://leetcode.com/problems/container-with-most-water/
+- 15 - 3Sum: https://leetcode.com/problems/3sum/
+- 33 -  Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
+- 34 - Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+- 40 - Combination Sum II: https://leetcode.com/problems/combination-sum-ii/
+- 47 - Permutations II: https://leetcode.com/problems/permutations-ii/
+- 74 - Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix/
+- 78 - Subsets: https://leetcode.com/problems/subsets/
+- 82 - Remove Duplicates from Sorted List II: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+- 90 - Subsets II: https://leetcode.com/problems/subsets-ii/
+- 117 - Populating Next Right Pointers in Each Node II: https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 - 130 - Surrounded Regions: 
 - 153 - Find Minimum in Rotated Sorted Array: 
 - 162 - Find Peak Element: 
