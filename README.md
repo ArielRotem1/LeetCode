@@ -22,16 +22,16 @@ My LeetCode solutions:
 - 82 - Remove Duplicates from Sorted List II: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 - 90 - Subsets II: https://leetcode.com/problems/subsets-ii/
 - 117 - Populating Next Right Pointers in Each Node II: https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
-- 130 - Surrounded Regions: 
-- 153 - Find Minimum in Rotated Sorted Array: 
-- 162 - Find Peak Element: 
-- 200 - Number of Islands: 
-- 209 - Minimum Size Subarray Sum: 
-- 331 - Verify Preorder Serialization of a Binary Tree: 
-- 438 - Find All Anagrams in a String: 
-- 522 - Longest Uncommon Subsequence II: 
-- 537 - Complex Number Multiplication: 
-- 547 - Number of Provinces: 
+- 130 - Surrounded Regions: https://leetcode.com/problems/surrounded-regions/
+- 153 - Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- 162 - Find Peak Element: https://leetcode.com/problems/find-peak-element/
+- 200 - Number of Islands: https://leetcode.com/problems/number-of-islands/
+- 209 - Minimum Size Subarray Sum: https://leetcode.com/problems/minimum-size-subarray-sum/
+- 331 - Verify Preorder Serialization of a Binary Tree: https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+- 438 - Find All Anagrams in a String: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+- 522 - Longest Uncommon Subsequence II: https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+- 537 - Complex Number Multiplication: https://leetcode.com/problems/complex-number-multiplication/
+- 547 - Number of Provinces: https://leetcode.com/problems/number-of-provinces/
 - 565 - Array Nesting: 
 - 633 - Sum of Square Numbers: 
 - 713 - Subarray Product Less Than K: 
