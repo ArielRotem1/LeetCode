@@ -2,12 +2,12 @@
 My LeetCode solutions:
 
 # Easy
-- 572 - Subtree of Another Tree: 
-- 598 - Range Addition II: 
-- 844 - Backspace String Compare: 
-- 872 - Leaf-Similar Trees: 
-- 1773 - Count Items Matching a Rule: 
-- 1979 - Find Greatest Common Divisor of Array: 
+- 572 - Subtree of Another Tree: https://leetcode.com/problems/subtree-of-another-tree/
+- 598 - Range Addition II: https://leetcode.com/problems/range-addition-ii/
+- 844 - Backspace String Compare: https://leetcode.com/problems/backspace-string-compare/
+- 872 - Leaf-Similar Trees: https://leetcode.com/problems/leaf-similar-trees/
+- 1773 - Count Items Matching a Rule: https://leetcode.com/problems/count-items-matching-a-rule/
+- 1979 - Find Greatest Common Divisor of Array: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 
 # Medium
 - 2 - Add Two Numbers: https://leetcode.com/problems/add-two-numbers/
@@ -32,11 +32,11 @@ My LeetCode solutions:
 - 522 - Longest Uncommon Subsequence II: https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 - 537 - Complex Number Multiplication: https://leetcode.com/problems/complex-number-multiplication/
 - 547 - Number of Provinces: https://leetcode.com/problems/number-of-provinces/
-- 565 - Array Nesting: 
-- 633 - Sum of Square Numbers: 
-- 713 - Subarray Product Less Than K: 
-- 797 - All Paths From Source to Target: 
-- 986 - Interval List Intersections: 
-- 1091 - Shortest Path in Binary Matrix: 
-- 1980 - Find Unique Binary String: 
-- 1981 - Minimize the Difference Between Target and Chosen Elements: 
+- 565 - Array Nesting: https://leetcode.com/problems/array-nesting/
+- 633 - Sum of Square Numbers: https://leetcode.com/problems/sum-of-square-numbers/
+- 713 - Subarray Product Less Than K: https://leetcode.com/problems/subarray-product-less-than-k/
+- 797 - All Paths From Source to Target: https://leetcode.com/problems/all-paths-from-source-to-target/
+- 986 - Interval List Intersections: https://leetcode.com/problems/interval-list-intersections/
+- 1091 - Shortest Path in Binary Matrix: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+- 1980 - Find Unique Binary String: https://leetcode.com/problems/find-unique-binary-string/
+- 1981 - Minimize the Difference Between Target and Chosen Elements: https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/
