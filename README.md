@@ -39,7 +39,6 @@ My LeetCode solutions:
  - 33 - Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array 
  - 34 - Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
  - 40 - Combination Sum II: https://leetcode.com/problems/combination-sum-ii
- - 43 - Multiply Strings: https://leetcode.com/problems/multiply-strings
  - 47 - Permutations II: https://leetcode.com/problems/permutations-ii
  - 48 - Rotate Image: https://leetcode.com/problems/rotate-image
  - 49 - Group Anagrams: https://leetcode.com/problems/group-anagrams
