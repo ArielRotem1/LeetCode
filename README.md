@@ -93,6 +93,7 @@ My LeetCode solutions:
  - 973 - K Closest Points to Origin: https://leetcode.com/problems/k-closest-points-to-origin        
  - 986 - Interval List Intersections: https://leetcode.com/problems/interval-list-intersections      
  - 1091 - Shortest Path in Binary Matrix: https://leetcode.com/problems/shortest-path-in-binary-matrix
+ - 1010 - Pairs of Songs With Total Durations Divisible by 60: https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
  - 1286 - Iterator for Combination: https://leetcode.com/problems/iterator-for-combination
  - 1249 - Minimum Remove to Make Valid Parentheses: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
  - 1306 - Jump Game III: https://leetcode.com/problems/jump-game-iii
@@ -101,6 +102,7 @@ My LeetCode solutions:
  - 1980 - Find Unique Binary String: https://leetcode.com/problems/find-unique-binary-string
  - 1981 - Minimize the Difference Between Target and Chosen Elements: https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
  - 2029 - Stone Game IX: https://leetcode.com/problems/stone-game-ix
+
 
  # Hard
  - 25 - Reverse Nodes in k-Group: https://leetcode.com/problems/reverse-nodes-in-k-group
