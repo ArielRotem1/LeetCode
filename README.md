@@ -15,6 +15,7 @@ My LeetCode solutions:
  - 290 - Word Pattern: https://leetcode.com/problems/word-pattern
  - 409 - Longest Palindrome: https://leetcode.com/problems/longest-palindrome
  - 415 - Add Strings: https://leetcode.com/problems/add-strings
+ - 476 - Number Complement: https://leetcode.com/problems/number-complement
  - 572 - Subtree of Another Tree: https://leetcode.com/problems/subtree-of-another-tree
  - 598 - Range Addition II: https://leetcode.com/problems/range-addition-ii
  - 706 - Design HashMap: https://leetcode.com/problems/design-hashmap
@@ -22,6 +23,7 @@ My LeetCode solutions:
  - 872 - Leaf-Similar Trees: https://leetcode.com/problems/leaf-similar-trees
  - 938 - Range Sum of BST: https://leetcode.com/problems/range-sum-of-bst
  - 997 - Find the Town Judge: https://leetcode.com/problems/find-the-town-judge
+ - 1009 - Complement of Base 10 Integer: https://leetcode.com/problems/complement-of-base-10-integer
  - 1217 - Minimum Cost to Move Chips to The Same Position: https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position
  - 1446 - Consecutive Characters: https://leetcode.com/problems/consecutive-characters
  - 1773 - Count Items Matching a Rule: https://leetcode.com/problems/count-items-matching-a-rule     
