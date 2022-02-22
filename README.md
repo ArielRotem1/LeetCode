@@ -10,6 +10,7 @@ My LeetCode solutions:
  - 155 - Min Stack: https://leetcode.com/problems/min-stack
  - 160 - Intersection of Two Linked Lists: https://leetcode.com/problems/intersection-of-two-linked-lists
  - 169 - Majority Element: https://leetcode.com/problems/majority-element
+ - 171 - Excel Sheet Column Number: https://leetcode.com/problems/excel-sheet-column-number
  - 217 - Contains Duplicate: https://leetcode.com/problems/contains-duplicate
  - 219 - Contains Duplicate II: https://leetcode.com/problems/contains-duplicate-ii
  - 290 - Word Pattern: https://leetcode.com/problems/word-pattern
