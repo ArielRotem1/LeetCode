@@ -1,6 +1,5 @@
-# LeetCode
-My LeetCode solutions:
-
+LeetCode account: https://leetcode.com/ariel_rotem/
+# LeetCode - My LeetCode solutions
 # Easy
  - 1 - Two Sum: https://leetcode.com/problems/two-sum
  - 108 - Convert Sorted Array to Binary Search Tree: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
