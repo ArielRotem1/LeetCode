@@ -6,16 +6,13 @@ class Solution {
         
         int counter = 0;
         
-        int diff = nums[1] - nums[0];
-        
         for(int i = 2; i < nums.length; i++){
-            if(diff == nums[i] - nums[i - 1]){
+            if(nums[i - 1] - nums[i - 2] == nums[i] - nums[i - 1]){
                 counter++;
                 answer += counter;
             }
             else{
                 counter = 0;
-                diff = nums[i] - nums[i - 1];
             }
         }
         
