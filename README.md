@@ -73,8 +73,11 @@ LeetCode account: https://leetcode.com/ariel_rotem/
  - 236 - Lowest Common Ancestor of a Binary Tree: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
  - 238 - Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self    
  - 240 - Search a 2D Matrix II: https://leetcode.com/problems/search-a-2d-matrix-ii
- - 300 - Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence - 331 - Verify Preorder Serialization of a Binary Tree: https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree
- - 334 - Increasing Triplet Subsequence: https://leetcode.com/problems/increasing-triplet-subsequence - 347 - Top K Frequent Elements: https://leetcode.com/problems/top-k-frequent-elements
+ - 300 - Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence
+ - 331 - Verify Preorder Serialization of a Binary Tree: https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree
+ - 334 - Increasing Triplet Subsequence: https://leetcode.com/problems/increasing-triplet-subsequence
+ - 347 - Top K Frequent Elements: https://leetcode.com/problems/top-k-frequent-elements
+ - 413 - Arithmetic Slices: https://leetcode.com/problems/arithmetic-slices
  - 416 - Partition Equal Subset Sum: https://leetcode.com/problems/partition-equal-subset-sum        
  - 435 - Non-overlapping Intervals: https://leetcode.com/problems/non-overlapping-intervals
  - 438 - Find All Anagrams in a String: https://leetcode.com/problems/find-all-anagrams-in-a-string  
