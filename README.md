@@ -46,6 +46,7 @@ LeetCode account: https://leetcode.com/ariel_rotem/
  - 49 - Group Anagrams: https://leetcode.com/problems/group-anagrams
  - 56 - Merge Intervals: https://leetcode.com/problems/merge-intervals
  - 59 - Spiral Matrix II: https://leetcode.com/problems/spiral-matrix-ii
+ - 61 - Rotate List: https://leetcode.com/problems/rotate-list
  - 74 - Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix
  - 75 - Sort Colors: https://leetcode.com/problems/sort-colors
  - 78 - Subsets: https://leetcode.com/problems/subsets
