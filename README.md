@@ -99,6 +99,7 @@
  - 797 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
  - 799 - [Champagne Tower](https://leetcode.com/problems/champagne-tower/)
  - 841 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+ - 946 - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
  - 973 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
  - 986 - [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
  - 1091 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
