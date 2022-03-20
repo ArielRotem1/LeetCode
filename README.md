@@ -103,6 +103,7 @@
  - 946 - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
  - 973 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
  - 986 - [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+ - 1007 - [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
  - 1091 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
  - 1010 - [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
  - 1286 - [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
