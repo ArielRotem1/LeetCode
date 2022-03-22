@@ -110,6 +110,7 @@
  - 1249 - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
  - 1306 - [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
  - 1557 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+ - 1663 - [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
  - 1823 - [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
  - 1980 - [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
  - 1981 - [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
