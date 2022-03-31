@@ -76,6 +76,7 @@
  - 236 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
  - 238 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
  - 240 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+ - 287 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
  - 300 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
  - 331 - [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
  - 334 - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
