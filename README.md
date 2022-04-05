@@ -122,6 +122,7 @@
 
 
  # Hard
+ - 32 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
  - 25 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
  - 41 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
  - 297 - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
