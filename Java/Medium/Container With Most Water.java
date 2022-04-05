@@ -1,5 +1,27 @@
 class Solution {
     public int maxArea(int[] height) {
+        // Time: O(n)
+        // Space: O(1)
+        int left = 0, right = height.length - 1, maxArea = 0;
+        
+        while(left < right){
+            if(height[left] < height[right]){
+                maxArea = Math.max(maxArea, height[left] * (right - left));
+                left++;
+            }
+            else{
+                maxArea = Math.max(maxArea, height[right] * (right - left));
+                right--;
+            }
+        }
+        
+        return maxArea;
+        
+        
+        
+        /*
+        Time: O(n^2)
+        Space: O(1)
         int max = 0;
         for(int i = 0; i < height.length; i++){
             int width = 1;
@@ -12,5 +34,6 @@ class Solution {
             }
         }
         return max;
+        */
     }
 }
