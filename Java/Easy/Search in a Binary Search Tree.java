@@ -18,12 +18,7 @@ class Solution {
         if(root == null) return null;
         if(root.val == val) return root;
         
-        TreeNode resLeft = searchBST(root.left, val);
-        
-        if(resLeft != null) return resLeft;
-        
-        TreeNode resRight = searchBST(root.right, val);
-        
-        return resRight;
+        if(root.val > val) return searchBST(root.left, val);
+        else return searchBST(root.right, val);
     }
 }
