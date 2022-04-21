@@ -52,6 +52,39 @@ class BSTIterator {
     }
 }
 
+//another solution
+// import java.util.ArrayDeque;
+
+// class BSTIterator {
+    
+//     private ArrayDeque<TreeNode> stack;
+
+//     public BSTIterator(TreeNode root) {
+//         stack = new ArrayDeque<>();
+//         stack.push(root);
+//         getNext();
+//     }
+    
+//     public int next() {
+//         TreeNode curr = stack.pop();
+        
+//         if(curr.right != null){
+//             stack.push(curr.right);
+//             getNext();
+//         }
+        
+//         return curr.val;
+//     }
+    
+//     public boolean hasNext() {
+//        return !stack.isEmpty(); 
+//     }
+    
+//     private void getNext(){
+//         while(stack.peek().left != null) stack.push(stack.peek().left);
+//     }
+// }
+
 /**
  * Your BSTIterator object will be instantiated and called as such:
  * BSTIterator obj = new BSTIterator(root);
