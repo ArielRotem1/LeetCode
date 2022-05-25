@@ -86,6 +86,7 @@
  - 289 - [Game of Life](https://leetcode.com/problems/game-of-life/)
  - 300 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
  - 322 - [Coin Change](https://leetcode.com/problems/coin-change/)
+ - 329 - [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
  - 331 - [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
  - 334 - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
  - 341 - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
