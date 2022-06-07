@@ -2,6 +2,7 @@
 # LeetCode - My LeetCode solutions
 # Easy
  - 1 - [Two Sum](https://leetcode.com/problems/two-sum/)
+ - 88 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
  - 108 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
  - 119 - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
  - 121 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
