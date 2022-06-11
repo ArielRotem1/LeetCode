@@ -15,15 +15,10 @@ class Solution {
             }
             else{
                 int prevCharIndex = hm.get(currChar);
-                if(prevCharIndex != -1){
-                    while(start <= prevCharIndex){
-                        hm.put(s.charAt(start), -1);
-                        start++;
-                    }
-                }
-                else{
+                if(prevCharIndex < start){
                     max = Math.max(max, end + 1 - start);
                 }
+                else start = prevCharIndex + 1;
             }
             
             
