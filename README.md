@@ -133,6 +133,7 @@
  - 1461 - [Check If a String Contains All Binary Codes of Size K]()
  - 1557 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
  - 1663 - [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
+ - 1695 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
  - 1721 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
  - 1823 - [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
  - 1980 - [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
