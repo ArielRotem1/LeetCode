@@ -131,6 +131,7 @@
  - 1286 - [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
  - 1249 - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
  - 1306 - [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
+ - 1423 - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
  - 1461 - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
  - 1557 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
  - 1642 - [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
