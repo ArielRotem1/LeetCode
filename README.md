@@ -13,6 +13,7 @@
  - 171 - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
  - 217 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
  - 219 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+ - 226 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
  - 290 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
  - 409 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
  - 415 - [Add Strings](https://leetcode.com/problems/add-strings/)
