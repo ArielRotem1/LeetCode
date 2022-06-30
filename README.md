@@ -19,6 +19,7 @@
  - 409 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
  - 415 - [Add Strings](https://leetcode.com/problems/add-strings/)
  - 476 - [Number Complement](https://leetcode.com/problems/number-complement/)
+ - 543 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
  - 572 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
  - 598 - [Range Addition II](https://leetcode.com/problems/range-addition-ii/)
  - 700 - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
