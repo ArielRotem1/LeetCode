@@ -32,6 +32,7 @@
  - 1009 - [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
  - 1217 - [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
  - 1446 - [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+ - 1710 - [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
  - 1773 - [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
  - 1979 - [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 
