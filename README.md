@@ -62,6 +62,7 @@
  - 75 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
  - 78 - [Subsets](https://leetcode.com/problems/subsets/)
  - 82 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+ - 86 -  [Partition List](https://leetcode.com/problems/partition-list/)
  - 90 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
  - 92 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
  - 99 - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
