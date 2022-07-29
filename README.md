@@ -132,6 +132,7 @@
  - 841 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
  - 856 - [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
  - 881 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+ - 890 - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
  - 991 - [Broken Calculator](https://leetcode.com/problems/broken-calculator/)
  - 946 - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
  - 973 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
