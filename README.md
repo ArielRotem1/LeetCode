@@ -66,6 +66,7 @@
  - 86 -  [Partition List](https://leetcode.com/problems/partition-list/)
  - 90 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
  - 92 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+ - 98 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
  - 99 - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
  - 103 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
  - 105 - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
