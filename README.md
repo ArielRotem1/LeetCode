@@ -2,6 +2,7 @@
 # LeetCode - My LeetCode solutions
 # Easy
  - 1 - [Two Sum](https://leetcode.com/problems/two-sum/)
+ - 13 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
  - 88 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
  - 108 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
  - 110 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
