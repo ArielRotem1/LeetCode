@@ -133,6 +133,7 @@
  - 763 - [Partition Labels](https://leetcode.com/problems/partition-labels/)
  - 797 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
  - 799 - [Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+ - 814 - [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)
  - 823 - [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
  - 841 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
  - 856 - [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
