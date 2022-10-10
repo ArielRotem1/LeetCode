@@ -152,6 +152,7 @@
  - 1286 - [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
  - 1249 - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
  - 1306 - [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
+ - 1328 - [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
  - 1338 - [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
  - 1423 - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
  - 1461 - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
