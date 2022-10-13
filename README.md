@@ -157,6 +157,7 @@
  - 1338 - [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
  - 1423 - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
  - 1461 - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+ - 1472 - [Design Browser History](https://leetcode.com/problems/design-browser-history/)
  - 1557 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
  - 1642 - [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
  - 1647 - [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
