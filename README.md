@@ -168,6 +168,7 @@
  - 1980 - [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
  - 1981 - [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
  - 2029 - [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)
+ - 2095 - [Delete the Middle Node of a Linked List]()
  - 2131 - [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
 
 
