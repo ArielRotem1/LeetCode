@@ -1,6 +1,7 @@
-[My LeetCode Account](https://leetcode.com/ariel_rotem/)
-# LeetCode - My LeetCode solutions
-# Easy
+This repo contains most of my leetcode solutions.<br>
+Here is a link to my leetcode account: [my leetcode account](https://leetcode.com/ariel_rotem/)
+
+## Easy
  - 1 - [Two Sum](https://leetcode.com/problems/two-sum/)
  - 13 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
  - 88 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -39,7 +40,7 @@
  - 1773 - [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
  - 1979 - [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 
-# Medium
+## Medium
  - 2 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
  - 3 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
  - 5 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -174,7 +175,7 @@
  - 2131 - [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
 
 
- # Hard
+ ## Hard
  - 32 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
  - 25 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
  - 41 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
