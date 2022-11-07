@@ -66,6 +66,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 74 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
  - 75 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
  - 78 - [Subsets](https://leetcode.com/problems/subsets/)
+ - 79 - [Word Search](https://leetcode.com/problems/word-search/)
  - 82 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
  - 86 -  [Partition List](https://leetcode.com/problems/partition-list/)
  - 90 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
