@@ -53,6 +53,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 24 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
  - 33 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
  - 34 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+ - 36 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
  - 38 - [Count and Say](https://leetcode.com/problems/count-and-say/)
  - 40 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
  - 47 - [Permutations II](https://leetcode.com/problems/permutations-ii/)
