@@ -184,6 +184,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 25 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
  - 41 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
  - 212 - [Word Search II](https://leetcode.com/problems/word-search-ii/)
+ - 224 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
  - 297 - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
  - 765 - [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
  - 847 - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
