@@ -169,6 +169,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 1557 - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
  - 1642 - [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
  - 1647 - [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+ - 1657 - [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
  - 1663 - [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)
  - 1695 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
  - 1721 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
