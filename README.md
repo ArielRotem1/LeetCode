@@ -51,6 +51,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 17 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
  - 22 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
  - 24 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+ - 28 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
  - 33 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
  - 34 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
  - 36 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
