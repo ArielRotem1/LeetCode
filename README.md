@@ -138,6 +138,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 647 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
  - 665 - [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
  - 669 - [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+ - 673 - [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
  - 692 - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
  - 707 - [Design Linked List](https://leetcode.com/problems/design-linked-list/)
  - 713 - [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
