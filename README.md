@@ -149,6 +149,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 814 - [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)
  - 823 - [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
  - 841 - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+ - 852 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
  - 856 - [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
  - 881 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
  - 890 - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
