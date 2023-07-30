@@ -128,6 +128,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 451 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
  - 462 - [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
  - 474 - [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+ - 486 - [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
  - 522 - [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
  - 537 - [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
  - 538 - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
