@@ -179,6 +179,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 1695 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
  - 1721 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
  - 1823 - [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+ - 1870 - [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/)
  - 1980 - [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)
  - 1981 - [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
  - 2029 - [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)
