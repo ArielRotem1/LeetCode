@@ -57,6 +57,7 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 36 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
  - 38 - [Count and Say](https://leetcode.com/problems/count-and-say/)
  - 40 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+ - 46 - [Permutations](https://leetcode.com/problems/permutations/description/)
  - 47 - [Permutations II](https://leetcode.com/problems/permutations-ii/)
  - 48 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
  - 49 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
