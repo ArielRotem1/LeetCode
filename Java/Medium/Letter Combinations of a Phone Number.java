@@ -1,9 +1,11 @@
+//Time: O(n^2) - n: digits.length()
+//Space: O(n^2)
 class Solution {
     HashMap<Integer, Character[]> charsForNumber;
     
     public List<String> letterCombinations(String digits) {
-        //I have chose to use LinkedList instead of ArrayList because in this problem
-        //you only need to add the elements and not searched through them
+        //I have chosen to use LinkedList instead of ArrayList because in this problem
+        //you only need to add the elements and not searched them
         LinkedList<String> letterCombinations = new LinkedList<String>();
         
         if(digits.length() == 0) return letterCombinations;
@@ -18,21 +20,29 @@ class Solution {
         charsForNumber.put(7, new Character[]{'p', 'q', 'r', 's'});
         charsForNumber.put(8, new Character[]{'t', 'u', 'v'});
         charsForNumber.put(9, new Character[]{'w', 'x', 'y', 'z'});
+
+        int[] digitsInt = new int[digits.length()];
+        int i = 0;
+        for(char dig : digits.toCharArray()){
+            digitsInt[i++] = ((int)dig) - 48;
+        }
         
-        getLetterCombinations(digits, 0, "", letterCombinations);
+        getLetterCombinations(digitsInt, 0, new StringBuilder(), letterCombinations);
         
         return letterCombinations;
     }
     
-    private void getLetterCombinations(String digits, int index, String currComb, List<String> letterCombinations){
+    private void getLetterCombinations(int[] digitsInt, int index, StringBuilder currComb, List<String> letterCombinations){
         
-        if(index == digits.length()){
-            letterCombinations.add(currComb);
+        if(index == digitsInt.length){
+            letterCombinations.add(currComb.toString());
             return;
         }
         
-        for(Character chrInDigit : charsForNumber.get(Character.getNumericValue(digits.charAt(index)))){
-            getLetterCombinations(digits, index + 1, currComb + chrInDigit, letterCombinations);
+        for(Character chrInDigit : charsForNumber.get(digitsInt[index])){
+            currComb.append(chrInDigit);
+            getLetterCombinations(digitsInt, index + 1, currComb, letterCombinations);
+            currComb.deleteCharAt(currComb.length() - 1);
         }
     }
 }
