@@ -194,14 +194,14 @@ Here is a link to my leetcode account: [my leetcode account](https://leetcode.co
  - 32 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
  - 25 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
  - 41 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+ - 132 - [Candy](https://leetcode.com/problems/candy/description)
  - 212 - [Word Search II](https://leetcode.com/problems/word-search-ii/)
  - 224 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
  - 297 - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
  - 381 - [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
- - 1125 - [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
-
  - 765 - [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
  - 847 - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
  - 980 - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+ - 1125 - [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
  - 1289 - [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
 
